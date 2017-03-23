@@ -1,0 +1,82 @@
+h1{
+    font-weight: bold;
+}
+
+#life{
+    font-weight: bold;
+}
+
+body{
+    background-color: white;
+}
+
+.jumbotron{
+    color: white;
+}
+
+#grad{
+    background: linear-gradient(to bottom right,#DD5E89,#F7BB97);
+}
+
+.buttons{
+    font-size: 18px;
+}
+
+#bridge{
+    width: 50%;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+/*div {*/
+/*    border:solid red 1px;*/
+/*}*/
+
+#drop:first-child:first-letter{
+    color: #903;
+    float: left;
+    font-family: Georgia;
+    font-size: 103px;
+    line-height: 60px;
+    padding-top: 13px;
+    padding-right: 8px;
+    padding-left: 3px;
+}
+
+.fgh {
+    border:solid black 2px;
+}
+
+.justify{
+    text-align: justify;
+}
+
+#gif{
+    border: solid black 5px;
+}
+
+#italic{
+    font-style: italic;
+    color: white;
+}
+
+#mission{
+    background-color: #903;
+    color: white;
+}
+
+#facebook{
+    margin-top: 3px;
+}
+
+.carousel{
+    border: solid black 5px;
+}
